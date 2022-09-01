@@ -1,6 +1,6 @@
 # quiz_app_batch06
 
-<img src="https://github.com/Rassel98/Quiz-App/blob/main/day6practice.png" alt="Italian Trulli">
+<img src="https://github.com/Rassel98/Quiz-App/blob/main/day6practice.png" width="450" alt="Italian Trulli">
 
 A new Flutter project.
 
